@@ -36,7 +36,7 @@ To set up the project on your local machine, follow these steps:
 
 1. Clone the repository:
 ```bash
-    git clone https://github.com/yourusername/megablog.git
+    git clone https://github.com/sachinmaheshwari1/megablog.git
     cd megablog
 ```
 
